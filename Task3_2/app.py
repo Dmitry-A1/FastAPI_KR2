@@ -1,6 +1,6 @@
-from smtpd import Options
 from typing import Optional
 from fastapi import FastAPI, HTTPException
+
 
 sample_product_1 = {
     "product_id": 123,
